@@ -1,0 +1,2 @@
+This is simple project which contains the airthmetic operations of two numbers such as addition,
+subtraction, multiplication and division.
