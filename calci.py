@@ -1,4 +1,4 @@
-# Simple Calculator
+# This is program of simple calculator
 
 A=100
 print("\n A = ",A)
@@ -21,4 +21,5 @@ print("\n Multiplication of two numbers = ", mul)
 #division
 div=A+B
 print("\n Division  of two numbers = ", div)
+
 
